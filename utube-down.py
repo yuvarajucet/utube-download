@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 
 from pytube import YouTube
 from argparse import ArgumentParser
